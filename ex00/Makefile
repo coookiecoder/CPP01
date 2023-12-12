@@ -2,7 +2,7 @@ CC=c++
 CFLAGS= -std=c++98 -Wall -Werror -Wextra
 
 OBJ=main.o Zombie.o newZombie.o randomChump.o
-NAME=CuteZombie
+NAME=Zombie
 
 all: $(NAME)
 
