@@ -10,4 +10,7 @@ int	main(void)
 		Horde[zombie].announce();
     }
 	delete[] Horde;
+
+	Zombie *Horde2 = zombieHorde(0, "Zombie from zombie horde 2");
+	delete[] Horde2;
 }
