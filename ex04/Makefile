@@ -2,7 +2,7 @@ CC=c++
 CFLAGS= -std=c++98 -Wall -Werror -Wextra
 
 OBJ=main.o
-NAME=Zombie
+NAME=sed
 
 all: $(NAME)
 
