@@ -2,7 +2,7 @@ CC=c++
 CFLAGS= -std=c++98 -Wall -Werror -Wextra
 
 OBJ=main.o HumanA.o HumanB.o Weapon.o
-NAME=Brain
+NAME=Violence
 
 all: $(NAME)
 
